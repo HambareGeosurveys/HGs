@@ -158,10 +158,14 @@ header .header-content .header-content-inner p {
 .item-3 {
 	background: url('../images/construction.jpg');
 	}
+.item-4 {
+	background: url('../images/woodplanks.jpg');
+	}
 		
 .item-1,
 .item-2,
-.item-3 {
+.item-3,
+.item-4 {
 	background-size: cover;
 	background-position: 50% 50%;
 	}
